@@ -33,14 +33,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<img src='https://user-images.githubusercontent.com/67671578/225506162-b8e560ac-f228-46b1-8231-162b0dc54e5c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[
+
 
 ## Notes
 
